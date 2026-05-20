@@ -1,0 +1,8 @@
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ 192.168.x.x  xx:xx:xx:xx:xx:xx    1      60   Unknown vendor
+ 192.168.x.x  xx:xx:xx:xx:xx:xx       1      60   Unknown vendor
+ 192.168.x.x  xx:xx:xx:xx:xx:xx       1      60  Unknown vendor
+
+-- Active scan completed, 3 Hosts found.

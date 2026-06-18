@@ -1,0 +1,16 @@
+# Nmap 7.98 scan initiated Wed May 20 03:23:11 2026 as: /usr/lib/nmap/nmap -sn -oN outputs/nmap_pingsweep.txt 192.168.0.0/24
+Nmap scan report for 192.x.x.x
+Host is up (0.0081s latency).
+MAC Address: xx:xx:xx:xx:xx:xx  (Huawei Technologies)
+Nmap scan report for 192.x.x.x
+Host is up (0.076s latency).
+MAC Address: xx:xx:xx:xx:xx:xx  (Unknown)
+Nmap scan report for 192.168.x.x
+Host is up (0.00030s latency).
+MAC Address: xx:xx:xx:xx:xx:xx  (FN-Link Technology)
+Nmap scan report for 192.x.x.x
+Host is up (0.099s latency).
+MAC Address: xx:xx:xx:xx:xx:xx  (Unknown)
+Nmap scan reort for 192.x.x.x
+Host is up.
+# Nmap done at Wed May 20 03:23:17 2026 -- 256 IP addresses (5 hosts up) scanned in 6.10 seconds

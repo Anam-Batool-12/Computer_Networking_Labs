@@ -1,0 +1,11 @@
+# Nmap 7.98 scan initiated Wed May 20 06:34:12 2026 as: /usr/lib/nmap/nmap -p 22,23,80 -oN outputs/nmap_firewall_test.txt localhost
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00015s latency).
+Other addresses for localhost (not scanned): ::1
+
+PORT   STATE  SERVICE
+22/tcp closed ssh
+23/tcp closed telnet
+80/tcp closed http
+
+# Nmap done at Wed May 20 06:34:12 2026 -- 1 IP address (1 host up) scanned in 0.12 seconds

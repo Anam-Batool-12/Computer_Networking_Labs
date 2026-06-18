@@ -1,0 +1,14 @@
+=== N5 - DNS Spoofing Lab ===
+
+Tool: dnsmasq
+Target domain: example.com
+Spoofed to: 192.168.X.104 (Kali machine)
+
+Result: SUCCESSFUL
+- example.com resolved to Kali IP via dnsmasq
+- curl confirmed redirect to Kali web server
+- Full directory listing served instead of real site
+
+Risk: CRITICAL
+- Any device using this DNS server lands on attacker machine
+- Combined with a fake login page = credential theft
